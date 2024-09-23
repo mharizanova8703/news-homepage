@@ -1,0 +1,21 @@
+#trendingSectionBox {
+    .img-card {
+        width: 130px;
+        height: 155px;
+    }
+
+    h1 {
+        color: $dark-blue;
+    }
+
+    .number {
+        font-family: var(--font-family-inter);
+        font-optical-sizing: var(--font-optical-sizing);
+        font-weight: var(--font-weight-bold);
+        color: $salmon;
+    }
+
+    p {
+        color: $gunmetal;
+    }
+}
